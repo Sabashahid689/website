@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Physical AI & Humanoid Robotics — Essentials
 
 A short, clean, professional AI-Native textbook with an integrated RAG chatbot, built with Docusaurus and FastAPI.
@@ -231,3 +232,6 @@ cd backend && python simple_server.py
 6. Run validation tests
 
 📚 **Full Documentation**: See `DEPLOYMENT.md`, `PRODUCTION_CHECKLIST.md`, and `ENVIRONMENT_VARIABLES.md`
+=======
+# website
+>>>>>>> 18f80b87c25733431bbc3cf5711e34f7533dfc7e
